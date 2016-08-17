@@ -1,0 +1,2 @@
+# zipr
+Rust Compression Library
