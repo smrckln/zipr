@@ -1,0 +1,6 @@
+[package]
+name = "zipr"
+version = "0.1.0"
+authors = ["smrckln <svr5263@psu.edu>"]
+
+[dependencies]
